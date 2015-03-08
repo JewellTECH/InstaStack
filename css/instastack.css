@@ -1,6 +1,11 @@
+body {
+	background-color: #e74c3c;
+}
+
 h1 {
 	font-family: 'Nixie One';
 	font-size: 72px;
+	color:#fff;
 }
 
 p {
@@ -9,4 +14,10 @@ p {
 
 .instaimage {
 	width: 330px;
+}
+
+#titlebox{
+	border-bottom: 2px solid #fff;
+	border-left: 2px solid #fff;
+	border-right: 2px solid #fff;
 }
